@@ -1,0 +1,6 @@
+[submodule "my-app-frontend"]
+	path = my-app-frontend
+	url = git@github.com:Kit486759/my-app-frontend.git
+[submodule "my-app-backend"]
+	path = my-app-backend
+	url = git@github.com:Kit486759/my-app-backend.git
